@@ -1,7 +1,7 @@
 
 <div align="center">
   
-# Pima Indians Diabetes Predictions with XGboost and KNN Classifiers
+## Pima Indians Diabetes Predictions with XGboost and KNN Classifiers
 </div>
 
 
